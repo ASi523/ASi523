@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asi523" alt="asi523" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft azure**
+- 🌱 I’m currently learning **VAPT**
 
-- 🤝 I’m looking for help with **wed devalopment**
+- 🤝 I’m looking for jobs in **wed devalopment**
 
-- 📫 How to reach me **asiklucky6@gmail.com**
+- 📫 How to reach me **asiklucky5@gmail.com**
 
-- 📄 Know about my experiences [0](0)
+- 📄 Know about my experiences [0](1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
